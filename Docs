@@ -1,1 +1,3 @@
-
+| Column Name    | Expression                                                                                                                                                                                                                                                      |
+| -------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Semana del Año | <br>LOOKUPVALUE (<br>    Calendario[Semana del Año],     -- columna que quieres traer<br>    Calendario[Date],             -- columna de búsqueda en Calendario<br>    'MovimientosDeInventario'[Fecha]   -- columna de búsqueda en Registro de Mermas<br>)<br> |
