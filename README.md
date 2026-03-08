@@ -6,7 +6,7 @@ El tablero de pronóstico de moldeados tiene como objetivo determinar la proyecc
 ---
 ## Tecnologías Utilizadas
 - **Power BI Desktop y Power BI App.com** ([modo de conexión: Import])
-- **[Fuente de datos, ej. SharePoint / SQL Server / SAP / Excel]**
+- **[Fuente de datos: SQL Server / SAP]**
 - **DAX** (*[tipo de cálculos: medidas de forecast, métricas de calidad, etc.]*)
 - **GitHub** (para control de versiones y documentación técnica)
 ---
